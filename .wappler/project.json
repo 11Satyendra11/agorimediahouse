@@ -1,0 +1,8 @@
+{
+  "projectName": "agorimedia",
+  "projectType": "web",
+  "styleFile": "/css/style.css",
+  "assetsFolder": "/assets",
+  "targets": [],
+  "frameworks": []
+}
